@@ -1,4 +1,4 @@
-Hi 👋 My name is Alessio Nannipieri
+Hi 👋 I'm Alessio !
 ===================================
 
 I'm a passionate software engineer, with a focus on backend development, testing and API design. 

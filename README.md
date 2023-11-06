@@ -13,11 +13,11 @@ I'm a passionate software engineer, with a focus on backend development, testing
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   14 hrs          ██████████████▓░░░░░░░░░░   58.64 %
-PHP          3 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Lasso        2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-CSV          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Python       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JavaScript   13 hrs 44 mins  █████████████░░░░░░░░░░░░   51.82 %
+PHP          3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Vue.js       3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Lasso        2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+CSV          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->

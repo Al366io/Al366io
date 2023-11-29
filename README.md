@@ -13,11 +13,11 @@ I'm a passionate software engineer, with a focus on backend development, testing
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       6 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
-TypeScript   5 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.55 %
-PHP          2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Makefile     1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-JavaScript   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+TypeScript   7 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.38 %
+Vue.js       5 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+JavaScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Makefile     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+PHP          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->

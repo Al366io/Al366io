@@ -13,11 +13,11 @@ I'm a passionate software engineer, with a focus on backend development, testing
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
-YAML                       1 hr 36 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-JavaScript                 1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-JSON                       56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-TypeScript                 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+PHP                        1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+YAML                       1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+JavaScript                 1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+TypeScript                 1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Python                     1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->

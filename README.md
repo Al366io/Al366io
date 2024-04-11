@@ -21,3 +21,5 @@ Git          7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![Al366io's GitHub stats](https://github-readme-stats.vercel.app/api?username=al366io)](https://github.com/anuraghazra/github-readme-stats)

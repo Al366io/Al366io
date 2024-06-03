@@ -1,5 +1,5 @@
 # Hi 👋 Alessio here
-just a software engineer -  DevOps / CICD / API / Blockchain / Backend <br> main side interests: Electronics, Engineering and Neuroscience <br><br> 🌍 I'm based in Barcelona<br> ✉️  You can contact me at [alessio.nannipieri0@gmail.com](mailto:alessio.nannipieri0@gmail.com)<br> ⚡  Did i mention i love BACKEND ??
+Not your usual Software Engineer 🧠 -  DevOps / CICD / API / Blockchain / Backend <br> Main side interests: Electronics, Engineering and Neuroscience <br><br> 🌍 I'm in Barcelona <br> ✉️ Contact me: [alessio.nannipieri0@gmail.com](mailto:alessio.nannipieri0@gmail.com)<br> ⚡  Did i mention i love BACKEND ??
 
 
 ## 🌐 Socials:

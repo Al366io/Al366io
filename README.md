@@ -1,5 +1,5 @@
-# Hi 👋 I'm Alessio:
-I'm a passionate software engineer, with a focus on backend development, testing and API design. <br> I strive to learn and study new technologies (together with a bit of neuroscience, which is my second passion 🧠)<br><br> 🌍  I'm based in Barcelona<br> ✉️  You can contact me at [alessio.nannipieri0@gmail.com](mailto:alessio.nannipieri0@gmail.com)<br> ⚡  Did i mention i love BACKEND ??
+# Hi 👋 Alessio here
+just a software engineer -  DevOps / CICD / API / Blockchain / Backend <br> main side interests: Electronics, Engineering and Neuroscience <br><br> 🌍 I'm based in Barcelona<br> ✉️  You can contact me at [alessio.nannipieri0@gmail.com](mailto:alessio.nannipieri0@gmail.com)<br> ⚡  Did i mention i love BACKEND ??
 
 
 ## 🌐 Socials:

@@ -13,7 +13,9 @@ Not your usual Software Engineer 🧠 -  DevOps / CICD / API / Blockchain / Back
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   2 mins          ██████████████▒░░░░░░░░░░   57.72 %
+Python       1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+TypeScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.96 %
 ```
 
 <!--END_SECTION:waka-->

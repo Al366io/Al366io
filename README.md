@@ -1,5 +1,5 @@
 # Hi 👋 Alessio here
-Not your usual Software Engineer 🧠 - Interested in DevOps / CICD / API / Blockchain / Backend <br> Main side interests: Electronics, Engineering and Neuroscience <br><br> 🌍 I'm in Barcelona <br>
+Not your usual Software Engineer 🧠 - Interested in DevOps / CICD / API / Blockchain / Backend <br> Main side interests: Electronics, Engineering and Neuroscience <br><br> 🌍 I'm in Italy <br>
 
 
 # 💻 Tech Stack:
